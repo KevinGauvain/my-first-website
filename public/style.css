@@ -1,0 +1,61 @@
+h1,
+a,
+img {
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+  text-decoration: underline;
+  font-style: bold;
+  font-size: 32;
+}
+
+body {
+  background: linear-gradient(rgb(26, 102, 243), rgb(150, 173, 248));
+  color: white;
+}
+
+.TitreDesExperiences {
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 26px;
+  font-style: bold;
+}
+
+.imageCentrée {
+  text-align: center;
+}
+
+.imageRonde {
+  border-radius: 50%;
+}
+
+.justifier {
+  text-align: justify;
+  font-size: 25px;
+}
+
+.couleurDeFond {
+  background: linear-gradient(rgb(125, 158, 163), hsl(216, 15%, 26%));
+}
+
+li.emoji {
+  list-style-type: "\1F449";
+}
+
+.navbar {
+  color: hsl(216, 15%, 26%);
+  font-size: 23px;
+  font-style: bold;
+  text-align: center;
+}
+
+.navbardroite {
+  color: hsl(216, 15%, 26%);
+  font-size: 23px;
+  font-style: bold;
+  text-align: right;
+}
